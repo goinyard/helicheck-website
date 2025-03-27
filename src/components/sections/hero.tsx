@@ -43,7 +43,7 @@ export function Hero() {
   }, []);
 
   return (
-    <section className="w-full pt-28 pb-16 md:pt-36 md:pb-24 lg:pb-32">
+    <section className="w-full pt-28 pb-16 md:pt-28 md:pb-24 lg:pb-32">
       <div className="container px-4 md:px-6 mx-auto">
         <div className="grid items-center gap-8 lg:grid-cols-2 lg:gap-12">
           <div className="space-y-5 md:space-y-6 text-center lg:text-left">
